@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhyey Patel</h1>
-<h3 align="center">Full Stack Web Devloper</h3>
+<h3 align="center">A passionate Full Stack Developer looking forward to showcasing my skills in real-world projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PatelDhyey56&label=Profile%20views&color=0e75b6&style=flat" alt="PatelDhyey" /> </p>
 
