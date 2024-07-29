@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PatelDhyey56&label=Profile%20views&color=0e75b6&style=flat" alt="PatelDhyey" /> </p>
 
-- 🌱 I’m currently learning **React-Js | Next.Js | MySql**
+- 🌱 I’m currently learning **React-Js | Next.Js | MySql | Graph-QL**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14hnVh4KaK9sJIveQ3Dg0eOX38Ij-eliy/view)
 
